@@ -5,8 +5,7 @@ Hola!! me llamo Demian Lozano
 
 Soy estudiante de la UNAHUR hace 1 año y medio, este es mi 4to cuatrimestre y estoy estudiando Tecnicatura en Programacion.
 
-
-![Logo UNAHUR](./assets/foto cv.jpg)
+(./assets/foto cv.jpg)
 
 ## Datos de la cursada :book:
 * Modalidad Mixta
