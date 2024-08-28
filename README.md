@@ -1,10 +1,10 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+Bienvenidos a mi presentacion personal!!
+Hola!! me llamo Demian Lozano
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Soy estudiante de la UNAHUR hace 1 año y medio, este es mi 4to cuatrimestre y estoy estudiando Tecnicatura en Programacion.
+
 
 ```
 object programacionConObjetos { 
