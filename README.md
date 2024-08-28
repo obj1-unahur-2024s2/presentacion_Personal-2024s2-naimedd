@@ -1,11 +1,11 @@
-![Logo UNAHUR](./assets/fondo cv.png)
+![Foto de fondo](./assets/fondo cv.png)
 
 Bienvenidos a mi presentacion personal!!
 Hola!! me llamo Demian Lozano
 
 Soy estudiante de la UNAHUR hace 1 año y medio, este es mi 4to cuatrimestre y estoy estudiando Tecnicatura en Programacion.
 
-(./assets/foto cv.jpg)
+![Foto mia](./assets/fondo cv.png)
 
 ## Datos de la cursada :book:
 * Modalidad Mixta
