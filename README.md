@@ -1,4 +1,4 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/fondo cv.png)
 
 Bienvenidos a mi presentacion personal!!
 Hola!! me llamo Demian Lozano
@@ -6,13 +6,7 @@ Hola!! me llamo Demian Lozano
 Soy estudiante de la UNAHUR hace 1 año y medio, este es mi 4to cuatrimestre y estoy estudiando Tecnicatura en Programacion.
 
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+![Logo UNAHUR](./assets/foto cv.jpg)
 
 ## Datos de la cursada :book:
 * Modalidad Mixta
